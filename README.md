@@ -2,7 +2,7 @@
 This project is practice project of Recycler View on Click &amp; Data passing using Custom Adapter. 
 
 
-## Will Learn this topic if built in this App:
+## Will Learn this topic if built this App:
 
 - How to create model class
 - How to design model design
